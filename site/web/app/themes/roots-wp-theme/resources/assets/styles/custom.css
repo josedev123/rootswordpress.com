@@ -1,0 +1,11 @@
+body{font-family:Arial, sans-serif;}
+
+a {
+    color: #563d7c;
+}
+
+.banner{padding:2rem 0px;text-align:center;background:#563d7c;margin:0px 0px 30px;}
+
+a.brand{font-size: 1.5rem;text-transform:uppercase;color:#fff;}
+
+.entry-summary p{font-family:Georgia, Times, serif;font-size:0.9rem;}
